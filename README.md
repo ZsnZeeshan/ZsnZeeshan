@@ -1,9 +1,12 @@
 ## 👋 Hi, I'm Zeeshan
 ### Embedded & IoT Specialist | AI Enthusiast | Industry 4.0, SDR & ATE Expertise 
+
 ---
+
 For over a decade, I’ve been building things that usually never see the light of open‑source day, solving problems deep inside closed‑source ecosystems, architecting systems, and pushing ideas from concept to production.
 
 Now, I’m shifting gears: sharing what I’ve learned, exploring new technologies, and creating content that helps others level up. I’m especially excited about contributing to open‑source projects in **AI**, **IoT**, and **R&D**, where collaboration and curiosity drive real innovation.
+
 ---
 If you’d like to connect, explore my work, or collaborate, you can find me here:
 
